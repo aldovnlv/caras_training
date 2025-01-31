@@ -33,7 +33,7 @@ train_images = []
 
 size = 64,64
 print('folders')
-folders.remove("LICENSE.txt")
+## folders.remove("LICENSE.txt")
 print(folders)
 
 for folder in folders:
